@@ -1,4 +1,4 @@
-# Collateral Sensitivity Network Application
+# Collateral Sensitivity Network Tool
 
 # Introduction to CSNA:
 

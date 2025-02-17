@@ -37,6 +37,8 @@ To run this program you will need to have python version ≥ 3.11. Python is a f
     ```
     
 5. ctrl+click on the https link that shows in terminal.
+   
+6. Once done with the code, re-enter powershell and press ctrl+C to end the code.
 
 # Introduction to ICSP:
 

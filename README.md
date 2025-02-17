@@ -16,10 +16,11 @@ To run this program you will need to have python version ≥ 3.11. Python is a f
     ```
     
 
-1. Navigate to GitHub and download the package as a .zip file, move to the new directory made ICSP.
-2. Change directory to file directory
+1. Navigate to GitHub and download the package as a .zip file. Once in your downloads move the folder within the zip file to the new directoryjust made, ICSP.
+2. Now back in poweshell, change directory to file directory.
     
     ```powershell
+    cd ICSP
     cd Collateral-Sensitivity-Networks-main
     ```
     
@@ -29,14 +30,13 @@ To run this program you will need to have python version ≥ 3.11. Python is a f
     py -3 -m pip install numpy scikit-learn pandas openpyxl xlsxwriter plotly dash seaborn
     ```
     
-4. Download the repository as a zip file and save the unzipped file in the new directory CSNA
-5. To run the code:
+4. To run the code:
     
     ```powershell
     py dash_main.py
     ```
     
-6. ctrl+click on the https link that shows in terminal.
+5. ctrl+click on the https link that shows in terminal.
 
 # Introduction to ICSP:
 

@@ -90,4 +90,5 @@ Strains treated with a previous antibiotic or that are resistant to an antibioti
 
 ---
 
-![image.png](image.png)
+!assets/Figure1z1.ppf
+

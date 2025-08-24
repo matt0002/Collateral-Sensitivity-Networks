@@ -12,7 +12,6 @@ from optimization_ import optimization_
 def makeAxis(title, tickangle):
     return {
         'title': title,
-        'titlefont': {'size': 20},
         'tickangle': tickangle,
         'tickfont': {'size': 15},
         'tickcolor': 'rgba(0,0,0,0)',
@@ -83,3 +82,4 @@ def ternary(df, num_drugs_, index):
     })
 
     return fig
+

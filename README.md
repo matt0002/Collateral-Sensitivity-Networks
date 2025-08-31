@@ -90,4 +90,4 @@ Strains treated with a previous antibiotic or that are resistant to an antibioti
 
 ---
 
-![alt text](https://github.com/matt0002/Collateral-Sensitivity-Networks/blob/main/assets/Workflow.png?raw=true)
+![alt text](https://github.com/matt0002/Collateral-Sensitivity-Networks/blob/main/assets/workflow.png?raw=true)

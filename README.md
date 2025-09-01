@@ -27,7 +27,7 @@ To run this program you will need to have python version ≥ 3.11. Python is a f
 3. Install all dependencies using pip:
     
     ```
-    py -3 -m pip install numpy scikit-learn pandas openpyxl xlsxwriter plotly dash seaborn
+    py -3 -m pip install -r requirements.txt
     ```
     
 4. To run the code:
